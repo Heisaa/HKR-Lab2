@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HKR-Lab2</string>
+    <string name="show_an_image">Show an Image</string>
+    <string name="show_many_images">Show many Images</string>
+    <string name="hide_text">Hide Text</string>
+    <string name="textHide">Push the button above to hide this text</string>
+    <string name="image">image</string>
 </resources>
